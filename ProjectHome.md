@@ -1,4 +1,4 @@
-![http://protrekkr.googlecode.com/svn/trunk/protrekkr.jpg](http://protrekkr.googlecode.com/svn/trunk/protrekkr.jpg)
+![https://github.com/SamuraiCrow/protrekkr/raw/master/protrekkr.jpg](https://github.com/SamuraiCrow/protrekkr/raw/master/protrekkr.jpg)
 <pre>
 ProTrekkr (formerly known as NoiseTrekker by Juan Antonio Arguelles Rius aka Arguru) is<br>
 a tracker program combining a software synthesizer together with a traditional samples<br>
@@ -7,7 +7,7 @@ hard acid, IDM, chip, techno, etc.) for small sized intros, demos or games.<br>
 <br>
 Currently the tracker is available on Windows, Linux, Amiga OS4, AROS and Mac OSX.<br>
 <br>
-Check http://code.google.com/p/protrekkr/wiki/introduction for more infos.<br>
+Check https://github.com/SamuraiCrow/protrekkr/blob/wiki/introduction.md for more infos.<br>
 <br>
 <br>
 Recent history.txt entries:<br>
