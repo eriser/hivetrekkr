@@ -144,7 +144,5 @@ to replace the stock signals.<br>
 ----<br>
 Q> Will you support VST instruments in a future?<br>
 <br>
-A> Yes, as specified here http://code.google.com/p/protrekkr/issues/list but<br>
-that's not really a priority, the main goal of the tracker is to be a<br>
-all-in-one program with a compact & re-usable replay routine.<br>
+Those don't work on AmigaOS nor AROS so no.
 </pre>
